@@ -6,7 +6,7 @@
 
 Hello and thanks in participating in the SmartCode Internet Solutions coding challenge. This coding exercise will help us get a better feeling about your coding process.
 
-If you have any questions, we're happy to help you. Reach the devs at project@fadihafez.net.
+If you have any questions, we're happy to help you. Reach the devs at support@smartcode.me.
 
 ## Context
 
@@ -85,7 +85,7 @@ To submit the project for evaluation please follow the steps below:
 - Create a **public** repo on your personal Github.
 - Add the new repo as a _remote_ on your local repo.
 - Push your code to your new remote repo.
-- Send us the link! The e-mail is: project@fadihafez.net
+- Send us the link! The e-mail is: support@smartcode.me
 
 ## That's it!
 
